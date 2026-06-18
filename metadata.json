@@ -1,0 +1,6 @@
+{
+  "name": "Baby Shapes Pattern Game",
+  "description": "Un juego interactivo para bebés donde deben copiar patrones de 5 figuras con estimulación visual y auditiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
